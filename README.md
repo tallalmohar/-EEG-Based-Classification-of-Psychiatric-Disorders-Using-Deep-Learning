@@ -5,7 +5,7 @@ This project applies supervised, semi-supervised, and unsupervised deep learning
 
 ## Important Links
 
-| [Timesheet](https://1sfu-my.sharepoint.com/:x:/g/personal/hamarneh_sfu_ca/EQ07LycgT7hOkF0sdB02oIIBBLzLK9IjtrYmOcOQgPjRVg?e=m0InGz) | [Slack channel](https://app.slack.com/client/T08645XD55G/C0877AWGWKC) | [Project report](https://www.overleaf.com/project/6772391967aad788ce163cd1) | 
+ | [Slack channel](https://app.slack.com/client/T08645XD55G/C0877AWGWKC) | [Project report](https://www.overleaf.com/project/6772391967aad788ce163cd1) | 
 |-----------|---------------|-------------------------|
 
 
