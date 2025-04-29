@@ -1,0 +1,17 @@
+Train Data
+
+==== Overall EEG Metadata Summary ====
+Total EDF Files: 1551
+Total Unique Subjects: 1147
+Total Common Channels (present in all subjects): 24
+
+==== Abnormal EEG Metadata Summary ====
+Total EDF Files: 761
+Total Unique Subjects: 487
+Total Common Channels (present in all subjects): 24
+
+==== Normal EEG Metadata Summary ====
+Total EDF Files: 790
+Total Unique Subjects: 695
+Total Common Channels (present in all subjects): 27
+
