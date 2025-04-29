@@ -6,8 +6,6 @@ This project applies supervised, semi-supervised, and unsupervised deep learning
 ## Important Links
 
  | [Slack channel](https://app.slack.com/client/T08645XD55G/C0877AWGWKC) | [Project report](https://www.overleaf.com/project/6772391967aad788ce163cd1) | 
-|-----------|---------------|-------------------------|
-
 
 
 ## Video Demo
